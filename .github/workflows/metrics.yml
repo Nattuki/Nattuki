@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          template: classic # 可选：classic, terminal, repository
+          template: classic
           
           base: header, activity, community, repositories, metadata
           
