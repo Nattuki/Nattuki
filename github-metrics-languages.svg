@@ -37,7 +37,6 @@
                                 Vue
                             </div>
                             <small>
-                                <div>35.7 kB</div>
                                 <div>46.48%</div>
                             </small>
                         </div>
@@ -49,7 +48,6 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>5.30 kB</div>
                                 <div>6.89%</div>
                             </small>
                         </div>
@@ -61,7 +59,6 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>207 bytes</div>
                                 <div>0.27%</div>
                             </small>
                         </div>
@@ -75,7 +72,6 @@
                                 Go
                             </div>
                             <small>
-                                <div>35.4 kB</div>
                                 <div>45.98%</div>
                             </small>
                         </div>
@@ -87,7 +83,6 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>296 bytes</div>
                                 <div>0.38%</div>
                             </small>
                         </div>
